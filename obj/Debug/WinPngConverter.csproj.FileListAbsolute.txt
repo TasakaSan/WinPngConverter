@@ -1,0 +1,10 @@
+C:\Users\tasak\source\repos\WinPngConverter\bin\Debug\WinPngConverter.exe.config
+C:\Users\tasak\source\repos\WinPngConverter\bin\Debug\WinPngConverter.exe
+C:\Users\tasak\source\repos\WinPngConverter\bin\Debug\WinPngConverter.pdb
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.Properties.Resources.resources
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.csproj.GenerateResource.cache
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.csproj.CoreCompileInputs.cache
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.exe
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.pdb
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.Form1.resources
+C:\Users\tasak\source\repos\WinPngConverter\obj\Debug\WinPngConverter.csproj.AssemblyReference.cache
